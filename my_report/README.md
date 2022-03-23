@@ -1,9 +1,9 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Augmented Reality Personal Repository: xxx
+### First and Last Name: Evangelia Papari
+### University Registration Number: dpsd19097
+### GitHub Personal Profile: https://github.com/dpsd19097/Augmented-Reality
+### Augmented Reality Personal Repository: https://dpsd19097.github.io/Augmented-Reality/
 
 # Introduction
 
